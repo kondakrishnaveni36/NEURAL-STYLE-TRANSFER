@@ -40,4 +40,3 @@ This project has several real-world applications, including photo editing apps, 
 
 OUTPUT :
 
-![Image](https://github.com/user-attachments/assets/bf8e79ee-e10e-4c90-bccc-402fa5671c6e)
